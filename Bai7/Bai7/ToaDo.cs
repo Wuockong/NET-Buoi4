@@ -39,7 +39,11 @@ namespace Bai07
         }
 
         public ToaDo()
-        { }
+        {
+            this._ten = "UnKnow";
+            this._x = 0;
+            this._y = 0;
+        }
 
         public override string ToString()
         {

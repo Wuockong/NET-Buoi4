@@ -30,7 +30,10 @@ namespace Bai07
             this._banKinh = banKinh;
         }
 
-        public HinhTron() { }
+        public HinhTron() 
+        {
+
+        }
 
         public double tinhDienTich()
         {
