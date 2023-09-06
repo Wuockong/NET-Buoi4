@@ -10,7 +10,7 @@ namespace Bai10
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
