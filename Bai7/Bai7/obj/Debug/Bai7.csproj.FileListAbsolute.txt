@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\NET-Buoi4\Bai7\Bai7\bin\Debug\Bai7.exe.config
+C:\Users\Administrator\Desktop\NET-Buoi4\Bai7\Bai7\bin\Debug\Bai7.exe
+C:\Users\Administrator\Desktop\NET-Buoi4\Bai7\Bai7\bin\Debug\Bai7.pdb
+C:\Users\Administrator\Desktop\NET-Buoi4\Bai7\Bai7\obj\Debug\Bai7.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NET-Buoi4\Bai7\Bai7\obj\Debug\Bai7.exe
+C:\Users\Administrator\Desktop\NET-Buoi4\Bai7\Bai7\obj\Debug\Bai7.pdb
